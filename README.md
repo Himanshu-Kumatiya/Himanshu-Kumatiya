@@ -6,13 +6,13 @@
 
   <br/>
   <table border="3" radius="20">
-    <td><a href="nkedin.com/in/himanshu-kumatiya/" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="45px" /> </a></td>
+    <td><a href="https://www.linkedin.com/in/himanshu-kumatiya/" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="45px" /> </a></td>
     <td><a href="https://mail.google.com/mail/u/0/?fs=1&to=kumatiya123@gmail.com&tf=cm" target="_blank">  <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" width="35px"/> </a></td>
   </table>
  <h1 font="bold">TechStack</h1>
 <br/>
  <p gap="10px">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,redux,tailwind,sass,c,cpp,py,java,express,git,github,mongodb,mysql,postman,vscode" />
   </a>
 </p>
